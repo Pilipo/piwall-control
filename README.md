@@ -8,13 +8,13 @@ Streams UDP multicast based on setting defined in a web based admin interface.
 Distribute video across individual monitors using omxplayer subscribing to the multicast feed. 
 
 # The Dependencies
-The Server
+The Server:
 Apache2
 MySQL
 Avconv
 Dsh
 
-The Clients
+The Clients:
 Omxplayer
 Pwomxplayer
 Pwomxplayer-lib
